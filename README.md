@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : YuvaKrishna K
+ #### REGISTER NUMBER : 212222110056
+ #### DEPARTMENT : CSE-IoT
+ #### YEAR : 3rd year
 
  
 # Aim:
@@ -82,18 +82,11 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+## ON DELAY TIMER
+![image](https://github.com/user-attachments/assets/bd1490f4-b4d9-4ace-9d13-b04b8f3ed94f)
 
-
-
-
-
-
-
-
-
-
-
-
+## OFF DELAY TIMER
+![image](https://github.com/user-attachments/assets/3d0028d1-73ad-4e5d-a6be-b363e3ee69de)
 
 
 # Results:
